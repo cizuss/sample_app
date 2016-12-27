@@ -1,2 +1,4 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
+michael:
+  name: claudiuffs
+  email: claudiu.cismaru94@gmail.com
